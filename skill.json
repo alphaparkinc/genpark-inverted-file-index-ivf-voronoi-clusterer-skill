@@ -1,0 +1,15 @@
+{
+  "name": "genpark-inverted-file-index-ivf-voronoi-clusterer-skill",
+  "version": "1.0.0",
+  "description": "Inverted File Index (IVF) k-means Voronoi cell clusterer and coarse vector quantizer for scalable ANN search.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "ivf",
+    "inverted-index",
+    "clustering",
+    "vector-search",
+    "genpark",
+    "mcp"
+  ]
+}
